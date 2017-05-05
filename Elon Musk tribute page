@@ -1,0 +1,180 @@
+<div class="container-fluid"
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet"
+      </div>
+      
+<style>
+  H1 {
+    font-size: 60px;
+    font-family: Monospace;
+    text-align:center;Centered Heading
+    font-weight:bold
+  }
+  H2 {
+    font-size: 45px;
+    font-family: Monospace;
+    text-align:center;Centered Heading
+    font-weight:bold
+  }
+  H3 {
+    font-size: 40px;
+    font-weight:bold
+    font-family: Monospace;
+      
+  }
+  UL {
+    font-size: 20px;
+    font-family: Monospace;
+  }
+  H4 {
+    font-size: 20px;
+    font-family: Monospace;
+    font-weight:bold
+  }
+  p1 {
+    font-size: 20px;
+    font-family: Monospace;
+  }
+   H5 {
+    font-size: 20px;
+    font-family: Monospace;
+    font-weight:bold
+  }
+  p2 {
+    font-size: 20px;
+    font-family: Monospace;
+  }
+   H6 {
+    font-size: 20px;
+    font-family: Monospace;
+    font-weight:bold
+  }
+  p3 {
+    font-size: 20px;
+    font-family: Monospace;
+  }
+    H7 {
+    font-size: 20px;
+    font-family: Monospace;
+    font-weight:bold
+  }
+  p4 {
+    font-size: 20px;
+    font-family: Monospace;
+  }
+  
+  
+  
+blockquote {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    font-style: italic;
+    width: 500px;
+    margin: 0.25em 0;
+    padding: 0.35em 40px;
+    line-height: 1.45;
+    position: relative; 
+    color: #383838;
+}
+  
+  blockquote {
+    max-width:390px;
+    color: #5c4c40;
+    text-align: center; 
+    border-left: 3px solid #897860; 
+    padding-left: 5px;
+    margin:0 auto;
+    width:auto;
+    display:table
+}
+
+blockquote:before {
+    font-family: Georgia, serif;
+    position: absolute;
+    font-size: 2em;
+    line-height: 1;
+    top: 0;
+    left: 0;
+    content: "\201C";
+}
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+ 
+    float:right;
+    font-size:2em;
+    line-height: 1;
+    right:0;
+    bottom:-0.5em;
+    content: "\201D";
+}
+blockquote footer {
+    padding: 0 2em 0 0;
+    text-align:right;
+}
+blockquote cite:before {
+    content: "\2013";
+}
+
+</style>
+
+  <body style="background-color:Whitesmoke;">
+    <h1> Elon Musk </h1>
+    <h2> Inventor, Entrepreneur, Visionary </h2>
+  <center> <img class="smaller-image" src="http://a3.files.biography.com/image/upload/c_fill,cs_srgb,g_face,h_300,w_300/MTE1ODA0OTcxOTUyMDE0ODYx.png" ></img></center>
+<h3 style="text-decoration:underline;"> Info </h3>
+<ul>
+  <li>Name: Elon Reeve Musk</li>
+  <li>Born: June 28, 1971 (age 45)</li>
+  <li>Origin: Pretoria, Transvaal, South Africa</li>
+</ul>
+
+<h4>
+  Zip2
+</h4>
+
+<p1>
+  In 1995, Musk and his brother, Kimbal, started Zip2, a web software company, with US$28,000 of their father's (Errol Musk) money.The company developed and marketed an Internet "city guide" for the newspaper publishing industry.Musk obtained contracts with The New York Times and the Chicago Tribune and persuaded the board of directors to abandon plans for a merger with CitySearch. While at Zip2, Musk wanted to become CEO; however, none of the board members would allow it. Compaq acquired Zip2 for US$307 million in cash and US$34 million in stock options in February 1999. Musk received 7% or US$22 million from the sale.
+</p1>
+
+<h5>
+  Paypal
+</h5>
+
+<p2>
+  In March 1999, Musk co-founded X.com, an online financial services and e-mail payment company, with US$10 million from the sale of Zip2. One year later, the company merged with Confinity, which had a money transfer service called PayPal. The merged company focused on the PayPal service and was renamed PayPal in 2001. PayPal's early growth was driven mainly by a viral marketing campaign where new customers were recruited when they received money through the service. Musk was ousted in October 2000 from his role as CEO (although he remained on the board) due to disagreements with other company leadership, notably over his desire to move PayPal's Unix-based infrastructure to Microsoft Windows. In October 2002, PayPal was acquired by eBay for US$1.5 billion in stock, of which Musk received US$165 million. Before its sale, Musk, who was the company's largest shareholder, owned 11.7% of PayPal's shares.
+</p2>
+
+<h6>
+  SpaceX
+</h6>
+
+<p3>
+  With US$100 million of his early fortune,Musk founded Space Exploration Technologies, or SpaceX, in June 2002. Musk is chief executive officer (CEO) and chief technology officer (CTO) of the Hawthorne, California-based company. SpaceX develops and manufactures space launch vehicles with a focus on advancing the state of rocket technology. The company's first two launch vehicles are the Falcon 1 and Falcon 9 rockets (a nod to Star Wars' Millennium Falcon), and its first spacecraft is the Dragon (a nod to Puff the Magic Dragon). In seven years, SpaceX designed the family of Falcon launch vehicles and the Dragon multipurpose spacecraft. In September 2008, SpaceX's Falcon 1 rocket became the first privately funded liquid-fueled vehicle to put a satellite into Earth orbit. On May 25, 2012, the SpaceX Dragon vehicle berthed with the ISS, making history as the first commercial company to launch and berth a vehicle to the International Space Station.
+</p3>
+
+<h7>
+  Tesla Motors
+</h7>
+
+<p4>
+  Following the financial crisis in 2008, Musk assumed leadership of the company as CEO and product architect, positions he still holds today. Tesla Motors first built an electric sports car, the Tesla Roadster in 2008, with sales of about 2,500 vehicles to 31 countries. Tesla began delivery of its four-door Model S sedan on June 22, 2012. It unveiled its third product, the Model X, aimed at the SUV/minivan market, on February 9, 2012; the Model X launch was however delayed until September 2015. In addition to its own cars, Tesla sells electric powertrain systems to Daimler for the Smart EV, Mercedes B-Class Electric Drive and Mercedes A Class and to Toyota for the RAV4 EV. Musk was able to bring in both companies as long-term investors in Tesla.
+</p4>
+
+
+<div>
+  
+  
+  
+  
+    <blockquote>
+                 If something is important enough, even if the odds are against you, you should still do it.
+    <footer>
+        <cite>
+            Elon Musk
+        </cite>
+    </footer>
+    </blockquote>
+</div>
+    
+  
